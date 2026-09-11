@@ -21,6 +21,9 @@ export const metadata: Metadata = {
     "commercial cleaning",
     "deep cleaning",
   ],
+  icons: {
+    icon: "/favicon.ico",
+  },
   openGraph: {
     title: "Loop Cleaning Services | Professional Cleaning in Kampala",
     description:
