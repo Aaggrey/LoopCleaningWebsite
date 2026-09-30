@@ -55,6 +55,7 @@ function TwitterIcon({ className }: { className?: string }) {
 const quickLinks = [
   { href: "/", label: "Home" },
   { href: "/services", label: "Services" },
+  { href: "/gallery", label: "Gallery" },
   { href: "/pricing", label: "Pricing" },
   { href: "/blog", label: "Blog" },
   { href: "/contact", label: "Contact" },
