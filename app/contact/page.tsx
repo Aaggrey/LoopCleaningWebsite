@@ -14,8 +14,8 @@ import {
 } from "lucide-react";
 
 const businessHours = [
-  { day: "Monday - Friday", hours: "8:00 AM - 7:00 PM" },
-  { day: "Saturday", hours: "8:00 AM - 6:00 PM" },
+  { day: "Monday - Friday", hours: "9:00 AM - 5:00 PM" },
+  { day: "Saturday", hours: "9:00 AM - 3:00 PM" },
   { day: "Sunday", hours: "By appointment" },
 ];
 
