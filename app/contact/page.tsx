@@ -273,6 +273,19 @@ export default function ContactPage() {
               </div>
             </div>
           </div>
+
+          <div className="mt-16 overflow-hidden rounded-2xl border border-gray-100 shadow-sm">
+            <iframe
+              title="Loop Cleaning Services Uganda - Google Business Map"
+              src="https://www.google.com/maps?q=Loop%20Cleaning%20Services%20Uganda&z=15&output=embed"
+              width="100%"
+              height="450"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
+          </div>
         </div>
       </div>
     </>

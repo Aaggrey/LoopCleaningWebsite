@@ -292,6 +292,6 @@ export const company = {
   phone: "+256 703 652 751",
   phoneRaw: "+256703652751",
   email: "info@loopcleaningug.com",
-  address: "Kampala, Uganda",
+  address: "Bukoto, Kampala, Uganda",
   whatsappLink: "https://wa.me/256703652751",
 };

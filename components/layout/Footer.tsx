@@ -77,7 +77,7 @@ export default function Footer() {
               />
             </div>
             <p className="mt-5 text-sm leading-relaxed text-white/80">
-              Loop Cleaning Services is a professional cleaning company in Kampala, Uganda.
+              Loop Cleaning Services is a professional cleaning company in Bukoto, Kampala, Uganda.
               We deliver exceptional residential and commercial cleaning solutions that
               transform spaces and exceed expectations.
             </p>
@@ -139,7 +139,7 @@ export default function Footer() {
             <ul className="mt-5 space-y-4 text-sm text-white/80">
               <li className="flex items-start gap-3">
                 <MapPin className="mt-0.5 h-5 w-5 shrink-0" />
-                <span>Kampala, Uganda</span>
+                <span>Bukoto, Kampala, Uganda</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="h-5 w-5 shrink-0" />
